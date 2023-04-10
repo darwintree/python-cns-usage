@@ -9,7 +9,7 @@ create an virtual env and install requirements
 ```bash
 python -m venv venv
 source ./venv/bin/activate
-pip install --pre conflux-web3
+pip install conflux-web3
 pip install ipykernel
 ```
 
